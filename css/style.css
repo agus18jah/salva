@@ -46,6 +46,7 @@ p {
 /* ------- Navigation ------------ */
 
 .navbar {
+    display: flex;
     margin-bottom: 0;
     background-color: #eff48a;
 }
