@@ -43,22 +43,11 @@ p {
 	margin-bottom:4px;
 }
 
-.site-logo a.brand {
-	color: #a0a547;	
-	font-size:30px;
-  text-align: center;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 900;
-	
-}
-.site-logo a.brand:hover {
-	text-decoration:none;
-}
-
 /* ------- Navigation ------------ */
 
 .navbar {
     margin-bottom: 0;
+    background-color: #eff48a;
 }
 
 .navbar-brand {
