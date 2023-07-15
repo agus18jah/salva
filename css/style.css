@@ -7,7 +7,7 @@ body {
     height: 100%;
     font-family: 'Ek Mukta', sans-serif;
 	font-weight: 300;
-    color: #666;
+    color: #6d702a;
     background-color: #fff;
 	font-size: 16px;
     line-height: 1.6em;
@@ -21,7 +21,7 @@ p {
 
 .btn-primary {
   padding: 8px 20px;
-  background: #fff;
+  background: #6d702a;
   color: #000;
   border-radius: 0;
   border:none;
@@ -30,7 +30,7 @@ p {
 
 .btn-primary:hover, 
 .btn-primary:focus{
-  background: #fff;
+  background: #6d702a;
   color:#eff48a;
   outline: none;
   box-shadow: none;
@@ -46,7 +46,6 @@ p {
 /* ------- Navigation ------------ */
 
 .navbar {
-    display: flex;
     margin-bottom: 0;
     background-color: #eff48a;
 }
@@ -75,7 +74,7 @@ p {
 	    -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
-	color: #fff;
+	color: #6d702a;
 }
 
 .navbar-fixed-top ul.nav ul.dropdown-menu {
@@ -99,7 +98,7 @@ p {
 }
 
 .navbar-fixed-top.top-nav-collapse ul.nav ul.dropdown-menu li a {
-	color: #666;
+	color: #a0a547;
 }
 
 .navbar-fixed-top .nav li a {
